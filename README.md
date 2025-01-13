@@ -30,7 +30,7 @@
 ## Installation
 **Clone the repository:**
    ```bash
-   git clone https://github.com/Enukio/NodepayBot.git
+   git clone https://github.com/SKaaalper/NodepayBot.git
    ```
    ```bash
    cd NodepayBot
